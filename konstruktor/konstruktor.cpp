@@ -7,7 +7,7 @@ private:
 int nim;
 int id;
 string nama;
-public:
+public: 
 mahasiswa();
 mahasiswa(int);
 mahasiswa(string);
